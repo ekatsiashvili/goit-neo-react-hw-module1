@@ -1,0 +1,16 @@
+.friends {
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.frnd {
+  display: flex;
+  justify-content: center;
+  border: 2px solid black;
+  padding: 10px 0;
+  border-radius: 4px;
+  width: 80px;
+  height: 150px;
+  margin-top: 20px;
+}
